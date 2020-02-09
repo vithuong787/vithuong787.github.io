@@ -1,3 +1,15 @@
+Monday 10 february 2020
+
+5:30AM
+
+If you can do it, another people can do it, stop is a perfetionist.
+
+God will save those who are worth saving !
+
+
+
+
+
 # My passion is science computer & life happy with her and our children.
 
 * Roses are red and violets are blue. - my name is Thuong and You are my sky with blue
