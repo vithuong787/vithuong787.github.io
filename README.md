@@ -14,7 +14,7 @@
 		var timer = document.getElementById("timer");
 		if(count > 0){
 			count--;
-			timer.innerHTML = "waiting  <b>"+count+"</b> sec.";
+			timer.innerHTML = "follow the passion <b>"+count+"</b>.";
 			setTimeout("countDown()", 1000);
 		}else{
 			window.location.href = redirect;
