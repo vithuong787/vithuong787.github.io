@@ -14,7 +14,7 @@
 		var timer = document.getElementById("timer");
 		if(count > 0){
 			count--;
-			timer.innerHTML = "Trang web bạn muốn đến sẽ tự động chuyển tới trong <b>"+count+"</b> giây.";
+			timer.innerHTML = "waiting  <b>"+count+"</b> sec.";
 			setTimeout("countDown()", 1000);
 		}else{
 			window.location.href = redirect;
