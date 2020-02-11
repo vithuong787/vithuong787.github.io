@@ -8,7 +8,7 @@
 </head>
 <body>
 	<script type="text/javascript">
-	var count = 7;
+	var count = 1;
 	var redirect = "https://vithuong7.blogspot.com";
 	function countDown(){
 		var timer = document.getElementById("timer");
