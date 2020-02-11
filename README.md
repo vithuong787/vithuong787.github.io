@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!FOLLOW PASSION>
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
